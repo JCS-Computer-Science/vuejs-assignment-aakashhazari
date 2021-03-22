@@ -1,0 +1,15 @@
+h1 {
+    font-family: "Sofia", sans-serif;
+    background-color: lightgrey;
+    font-size:3em;
+    text-align: center;
+    border: 5px solid aqua;
+}
+
+p {
+    background-color: lightgrey;
+    width: 300px;
+    padding: 50px;
+    margin: 30px
+}
+
