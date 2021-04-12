@@ -12,11 +12,13 @@ getBored();
 
 
 const app = Vue.createApp({
-	el: '',
-	data() {
-		return{
-			getbored
-		}
+	el: '#app',
+		data() {
+			return{
+				getbored  
+			}
+			
+		
 	},
 	mounted () {
 		axios
